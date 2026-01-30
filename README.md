@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Pavan Mandadapu**
 
-**Senior Software Developer | Java | Spring Boot | Distributed Systems | Cloud (AWS · GCP · Azure)**
+Senior Software Developer | Java | Spring Boot | Distributed Systems | Cloud (AWS · GCP · Azure)
 
 📍 United States  
 📞 **940-331-6186**  

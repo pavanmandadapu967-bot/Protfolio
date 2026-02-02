@@ -69,7 +69,7 @@ I’ve worked across **AWS, GCP, and Azure**, handled **high-traffic transaction
 ---
 
 ### **MedReview Inc — Software Developer**  
-📍 Austin, TX | *Aug 2022 – Jun 2024*
+📍 New York, NY | *Aug 2022 – Jun 2024*
 
 - Java 11/17 backend development using Spring
 - REST & SOAP enterprise integrations
@@ -90,7 +90,7 @@ I’ve worked across **AWS, GCP, and Azure**, handled **high-traffic transaction
 ## 🎓 Education
 
 **Master of Science in Computer Engineering**  
-Wichita State University — Wichita, KS
+Campbellsville University — Louisville, KY
 
 **Bachelor of Technology in Computer Science**  
 K L University — Guntur, India
